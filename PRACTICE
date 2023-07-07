@@ -1,0 +1,8 @@
+def happy():
+    print("Happy birthday to you")
+def FRED():
+    print("Happy birthday dear Fred")
+    
+    
+happy()
+FRED()
